@@ -1,5 +1,8 @@
+#################################################################
 # Mihir Patel
 # Date: 3/13/2021
+# File: get_nth_highest_salary.sql
+#################################################################
 
 # Write a SQL query to get the nth highest salary from the Employee table.
 # 
